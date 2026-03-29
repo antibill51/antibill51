@@ -1,13 +1,22 @@
 ### Hi there 👋
 
 I am a self-taught technology enthusiast currently transitioning into cybersecurity and secure infrastructure. After completing a bootcamp focused on cybersecurity and secure infrastructure administration, I am actively seeking opportunities in these fields. I enjoy learning through hands-on practice, building practical projects, and taking on technical challenges such as CTFs. I would be glad to connect about any relevant opportunity.
-
 ### 📊 GitHub Metrics
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/antibill51/antibill51/main/metrics1.svg" alt="GitHub Metrics 1" width="48%" />
-  <img src="https://raw.githubusercontent.com/antibill51/antibill51/main/metrics2.svg" alt="GitHub Metrics 2" width="48%" />
-</p>
+<table width="100%" style="border: none;">
+  <tr>
+    <td width="50%" valign="top" style="border: none;">
+      <a href="https://github.com/antibill51">
+        <img src="https://raw.githubusercontent.com/antibill51/antibill51/main/metrics1.svg" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <a href="https://github.com/antibill51">
+        <img src="https://raw.githubusercontent.com/antibill51/antibill51/main/metrics2.svg" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 🏴‍☠️ Root-Me Stats
 
