@@ -18,5 +18,10 @@ I am a self-taught technology enthusiast currently transitioning into cybersecur
 
 ---
 
-### In case you found something useful and want to buy me a :coffee:
-<a href="https://paypal.me/remikira" target="_blank"><img src="https://img.shields.io/static/v1?logo=paypal&label=&message=donate&color=slategrey"></a>
+<div align="center">
+  <h3>☕ Support my work</h3>
+  <p>If you found my scripts or homelab configurations useful, you can support me here:</p>
+  <a href="https://paypal.me/remikira" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-PayPal-00457C.svg?style=for-the-badge&logo=paypal" alt="Donate with PayPal" />
+  </a>
+</div>
