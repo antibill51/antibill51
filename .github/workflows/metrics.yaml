@@ -44,6 +44,7 @@ jobs:
           user: antibill51
           base: ""
           base_indepth: yes
+          config_padding: 0, 10%
           config_timezone: Europe/Paris
           use_prebuilt_image: yes
 
@@ -52,7 +53,6 @@ jobs:
           plugin_topics_sort: stars
           plugin_topics_mode: mastered
           plugin_topics_limit: 15
-
 
           # Le calendrier d'activité type "GitHub" sur 6 mois
           plugin_isocalendar: yes
