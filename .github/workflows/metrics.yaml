@@ -24,6 +24,9 @@ jobs:
           config_timezone: Europe/Paris
           use_prebuilt_image: yes
           
+          # Force l'outil à générer une image au format large (réduit visuellement la police)
+          config_display: large
+          
           # 1. Mes Langages
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15

@@ -5,14 +5,14 @@ I am a self-taught technology enthusiast currently transitioning into cybersecur
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/antibill51/antibill51/main/metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/antibill51/antibill51/main/metrics.svg" alt="GitHub Metrics" width="85%" />
 </p>
 
 ### 🏴‍☠️ Root-Me Stats
 
 <p align="center">
   <a href="https://www.root-me.org/Remi-K" target="_blank">
-    <img src="https://root-me-diff.vercel.app/rm-gh?nickname=Remi-K&gstats=show&style=dark" alt="Root-Me Stats" width="100%" />
+    <img src="https://root-me-diff.vercel.app/rm-gh?nickname=Remi-K&gstats=show&style=dark" alt="Root-Me Stats" width="85%" />
   </a>
 </p>
 
