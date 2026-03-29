@@ -55,8 +55,9 @@ jobs:
           # Affiche les contributions réelles (Pull requests, issues créées, etc.)
           plugin_activity: yes
           plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_activity_days: 365 
+          plugin_activity_visibility: public
+          plugin_activity_filter: issue, pr, release, fork
 
           # Le calendrier d'activité type "GitHub" sur 6 mois
           plugin_isocalendar: yes
