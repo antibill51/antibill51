@@ -43,6 +43,7 @@ jobs:
           filename: metrics2.svg
           user: antibill51
           base: ""
+          base_indepth: yes
           config_timezone: Europe/Paris
           use_prebuilt_image: yes
 
