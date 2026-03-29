@@ -12,7 +12,7 @@ I am a self-taught technology enthusiast currently transitioning into cybersecur
 
 <p align="center">
   <a href="https://www.root-me.org/Remi-K" target="_blank">
-    <img src="https://root-me-diff.vercel.app/rm-gh?nickname=Remi-K&gstats=show&style=dark" alt="Root-Me Stats" />
+    <img src="https://root-me-diff.vercel.app/rm-gh?nickname=Remi-K&gstats=show&style=dark" alt="Root-Me Stats" width="100%" />
   </a>
 </p>
 
