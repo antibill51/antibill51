@@ -5,14 +5,8 @@ I am a self-taught technology enthusiast currently transitioning into cybersecur
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <a href="https://github.com/antibill51">
-    <img src="https://raw.githubusercontent.com/antibill51/antibill51/main/metrics1.svg" width="49%" align="left" />
-  </a>
-  <a href="https://github.com/antibill51">
-    <img src="https://raw.githubusercontent.com/antibill51/antibill51/main/metrics2.svg" width="49%" align="right" />
-  </a>
+  <img src="https://raw.githubusercontent.com/antibill51/antibill51/main/metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
-<br clear="both"/>
 
 ### 🏴‍☠️ Root-Me Stats
 
