@@ -8,11 +8,11 @@ I am a self-taught technology enthusiast currently transitioning into cybersecur
   <img src="https://raw.githubusercontent.com/antibill51/antibill51/main/metrics.svg" alt="GitHub Metrics" width="85%" />
 </p>
 
-### 🏴‍☠️ Root-Me Stats
+### 🏴‍☠️ Root-Me Profile
 
 <p align="center">
   <a href="https://www.root-me.org/Remi-K" target="_blank">
-    <img src="https://root-me-diff.vercel.app/rm-gh?nickname=Remi-K&gstats=show&style=dark" alt="Root-Me Stats" width="85%" />
+    <img src="https://img.shields.io/badge/Root--Me-Remi--K-292b2f?style=for-the-badge&logo=rootme&logoColor=8DC63F" alt="Root-Me Profile" />
   </a>
 </p>
 
